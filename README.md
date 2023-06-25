@@ -18,13 +18,15 @@
 
 ###
 
-<img align="right" height="350" src="https://www.webstep.in/wp-content/uploads/2022/08/ios_developer.png"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://lh3.googleusercontent.com/sG-16ZONj2S2tK_KEU6HQil0SdVpT2YUHfkLAV3qIfW_qsQMJPb0J_1rCQpiC40RaJ_yprNfehINPTesy9-d3iKWtaS4maDVVZtShxLT"  />
 
 ###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=halukbayrakci&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halukbayrakci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halukbayrakci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
