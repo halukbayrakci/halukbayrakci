@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://www.webstep.in/wp-content/uploads/2022/08/ios_developer.png"  />
+<img align="right" height="350" src="https://www.webstep.in/wp-content/uploads/2022/08/ios_developer.png"  />
 
 ###
 
