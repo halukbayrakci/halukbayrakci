@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <h1 align="center">Hi 👋! My name is Haluk  <br>Welcome My Profile 👨‍💻</h1>
 
 ###
@@ -26,7 +32,7 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=halukbayrakci&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halukbayrakci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halukbayrakci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
