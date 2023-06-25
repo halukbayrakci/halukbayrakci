@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/halukbayrakci/halukbayrakci/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">Hi 👋! My name is Haluk  <br>Welcome My Profile 👨‍💻</h1>
 
 ###
@@ -24,12 +18,12 @@
 
 ###
 
-<img align="right" height="450" src="https://www.webstep.in/wp-content/uploads/2022/08/ios_developer.png"  />
+<img align="right" height="350" src="https://www.webstep.in/wp-content/uploads/2022/08/ios_developer.png"  />
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=halukbayrakci&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=15" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=halukbayrakci&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=halukbayrakci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blueberry&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
