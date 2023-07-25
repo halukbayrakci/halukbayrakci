@@ -3,6 +3,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" alt="xcode logo"  />
